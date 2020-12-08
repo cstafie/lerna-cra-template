@@ -1,0 +1,14 @@
+{
+  "name": "@forte/shared",
+  "private": true,
+  "version": "1.0.0",
+  "description": "forte's shared",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
